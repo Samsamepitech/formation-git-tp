@@ -8,7 +8,7 @@ Qui est là ?
 * Hicham
 * Hayet 
 * Charles
-* Samsam Taibi
+* Samsam
 * Geoffrey
 * Hyebin
 * Benoît
