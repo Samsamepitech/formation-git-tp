@@ -9,6 +9,6 @@ Qui est là ?
 * Hayet 
 * Charles Bailleul
 * Samsam
-* Geoffrey
+* Geoffrey MAZZA
 * Hyebin
 * Benoît
