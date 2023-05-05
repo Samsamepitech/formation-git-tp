@@ -1,4 +1,6 @@
-*# formation-git-tp
-test github repository
+= Formation GIT de la POEI
 
-Benoît
+Qui est là ?
+
+* Nicolas
+
