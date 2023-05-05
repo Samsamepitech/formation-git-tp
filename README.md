@@ -1,14 +1,14 @@
-= Formation GIT de la POEI
+# Formation GIT de la POEI
 
 Qui est là ?
 
 
 
-* Nicolas
-* Hicham
+* Nicolas Delsaux
+* Hicham FERRACHE
 * Hayet 
-* Charles
+* Charles Bailleul
 * Samsam
-* Geoffrey
+* Geoffrey MAZZA
 * Hyebin KIM
 * Benoît
