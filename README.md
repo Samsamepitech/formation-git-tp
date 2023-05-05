@@ -10,6 +10,5 @@ Qui est là ?
 * Charles Bailleul
 * Samsam
 * Geoffrey MAZZA
-* Hyebin
+* Hyebin KIM
 * Benoît Robart
-
