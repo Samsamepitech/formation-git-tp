@@ -1,10 +1,10 @@
-= Formation GIT de la POEI
+# Formation GIT de la POEI
 
 Qui est là ?
 
 
 
-* Nicolas
+* Nicolas Delsaux
 * Hicham
 * Hayet 
 * Charles
