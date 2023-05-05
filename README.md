@@ -11,5 +11,4 @@ Qui est là ?
 * Samsam
 * Geoffrey MAZZA
 * Hyebin KIM
-* Hyebin
 * Benoît Robart
