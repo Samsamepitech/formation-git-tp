@@ -4,3 +4,7 @@ Qui est là ?
 
 * Nicolas
 * Hicham
+* Hayet 
+* Charles
+* Samsam
+* Geoffrey
