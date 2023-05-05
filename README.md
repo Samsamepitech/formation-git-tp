@@ -3,4 +3,6 @@
 Qui est là ?
 
 * Nicolas
+* Charles
+* Samsam
 * Geoffrey
