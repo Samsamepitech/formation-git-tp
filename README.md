@@ -10,5 +10,5 @@ Qui est là ?
 * Charles
 * Samsam
 * Geoffrey
-* Hyebin
+* Hyebin KIM
 * Benoît
